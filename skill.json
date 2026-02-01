@@ -1,0 +1,18 @@
+{
+  "name": "project-continuity-skill",
+  "description": "Setup project continuity with git+backup workflow for any development project",
+  "version": "1.0.0",
+  "author": "Glenn Highcove and OpenCode Agent via Vibe Coding",
+  "categories": ["development", "productivity", "project-management"],
+  "tags": ["git", "backup", "workflow", "automation"],
+  "license": "MIT",
+  "readme": "README.md",
+  "homepage": "https://github.com/ghighcove/yacht-market-analysis",
+  "repository": "https://github.com/ghighcove/yacht-market-analysis.git",
+  "skills": [
+    {
+      "name": "setup-project-framework",
+      "description": "Setup project structure and git workflow"
+    }
+  ]
+}
