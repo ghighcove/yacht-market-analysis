@@ -334,7 +334,7 @@ Contributions are welcome! Please feel free to:
 ## 📞 Contact & Support
 
 **Repository**: https://github.com/ghighcove/yacht-market-analysis
-**Project Lead**: Enhanced Mediterranean superyacht market intelligence analysis
+**Project Lead**: Glenn Highcove and OpenCode Agent via Vibe Coding
 **Last Updated**: February 1, 2026
 
 ---
