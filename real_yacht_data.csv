@@ -1,0 +1,251 @@
+yacht_id,builder,length_m,price_eur,segment,age_years,location,cabins
+YHT001,Sunseeker,69.0,97990000.0,Luxury,4.7,Italian Riviera,9
+YHT002,Abeking,43.3,26260000.0,Premium-Luxury,28.0,Spanish Coast,6
+YHT003,Lürssen,30.0,15640000.0,Mid-Range,6.0,Spanish Coast,4
+YHT004,Oceanco,96.2,165440000.0,Ultra-Luxury,3.7,Italian Riviera,13
+YHT005,Sunseeker,69.7,98290000.0,Luxury,1.5,South of France,9
+YHT006,Abeking,39.7,16180000.0,Mid-Range,2.1,Spanish Coast,5
+YHT007,Heesen,41.2,25080000.0,Premium-Luxury,4.0,South of France,5
+YHT008,Heesen,43.1,33380000.0,Premium-Luxury,0.3,South of France,6
+YHT009,Azimut,39.4,19180000.0,Mid-Range,3.2,Spanish Coast,5
+YHT010,Abeking,86.3,163260000.0,Ultra-Luxury,7.1,Monaco,12
+YHT011,Feadship,60.9,73020000.0,Luxury,0.1,Monaco,8
+YHT012,Feadship,32.0,7260000.0,Mid-Range,9.9,Italian Riviera,4
+YHT013,Sunseeker,30.7,8000000.0,Mid-Range,15.2,Spanish Coast,4
+YHT014,Amels,51.3,55100000.0,Luxury,7.2,Italian Riviera,7
+YHT015,Abeking,43.8,49240000.0,Premium-Luxury,6.6,Italian Riviera,6
+YHT016,Sunseeker,44.3,19140000.0,Premium-Luxury,18.1,Monaco,6
+YHT017,Abeking,60.2,78700000.0,Luxury,6.2,Greek Islands,8
+YHT018,Lürssen,51.5,51010000.0,Luxury,7.8,Monaco,7
+YHT019,Heesen,92.8,163990000.0,Ultra-Luxury,6.2,South of France,13
+YHT020,Amels,87.8,228280000.0,Ultra-Luxury,4.5,Spanish Coast,12
+YHT021,Heesen,56.1,61540000.0,Luxury,2.0,Italian Riviera,8
+YHT022,Azimut,54.9,52810000.0,Luxury,9.7,Monaco,7
+YHT023,Amels,82.7,166810000.0,Ultra-Luxury,2.9,Monaco,11
+YHT024,Sunseeker,32.7,15530000.0,Mid-Range,2.6,Monaco,4
+YHT025,Heesen,46.8,35080000.0,Premium-Luxury,2.2,Spanish Coast,6
+YHT026,Abeking,88.5,184860000.0,Ultra-Luxury,8.0,Italian Riviera,12
+YHT027,Azimut,38.0,9340000.0,Mid-Range,0.3,Spanish Coast,5
+YHT028,Oceanco,54.4,82880000.0,Luxury,8.3,Spanish Coast,7
+YHT029,Amels,34.0,13700000.0,Mid-Range,3.3,Monaco,4
+YHT030,Azimut,60.8,73090000.0,Luxury,13.6,Monaco,8
+YHT031,Abeking,42.6,50450000.0,Premium-Luxury,18.5,Italian Riviera,6
+YHT032,Oceanco,55.6,85440000.0,Luxury,17.4,Monaco,7
+YHT033,Oceanco,40.8,27500000.0,Premium-Luxury,7.0,Monaco,5
+YHT034,Heesen,40.1,23700000.0,Premium-Luxury,4.8,Greek Islands,5
+YHT035,Oceanco,64.2,66850000.0,Luxury,3.7,Italian Riviera,9
+YHT036,Sunseeker,45.7,23660000.0,Premium-Luxury,2.3,Greek Islands,6
+YHT037,Feadship,49.1,33080000.0,Premium-Luxury,6.9,Monaco,7
+YHT038,Feadship,64.4,59510000.0,Luxury,0.4,Spanish Coast,9
+YHT039,Feadship,39.5,17790000.0,Mid-Range,24.5,Greek Islands,5
+YHT040,Sunseeker,49.7,55650000.0,Premium-Luxury,2.9,Monaco,7
+YHT041,Lürssen,53.4,80160000.0,Luxury,21.3,South of France,7
+YHT042,Lürssen,49.9,28650000.0,Premium-Luxury,3.1,Monaco,7
+YHT043,Lürssen,105.4,225620000.0,Ultra-Luxury,13.3,Monaco,15
+YHT044,Oceanco,40.8,21560000.0,Premium-Luxury,8.4,Spanish Coast,5
+YHT045,Sunseeker,30.3,11030000.0,Mid-Range,0.3,Monaco,4
+YHT046,Feadship,69.6,113100000.0,Luxury,0.3,Italian Riviera,9
+YHT047,Abeking,96.1,226170000.0,Ultra-Luxury,4.9,Greek Islands,13
+YHT048,Azimut,58.2,67220000.0,Luxury,29.8,Spanish Coast,8
+YHT049,Lürssen,40.4,27510000.0,Premium-Luxury,0.7,Greek Islands,5
+YHT050,Feadship,51.6,67400000.0,Luxury,1.5,Monaco,7
+YHT051,Abeking,42.4,20250000.0,Premium-Luxury,2.6,Greek Islands,6
+YHT052,Oceanco,45.5,35520000.0,Premium-Luxury,6.7,Italian Riviera,6
+YHT053,Feadship,30.1,5790000.0,Mid-Range,3.0,Spanish Coast,4
+YHT054,Oceanco,50.3,78100000.0,Luxury,1.5,Greek Islands,7
+YHT055,Sunseeker,62.3,67170000.0,Luxury,0.1,Italian Riviera,8
+YHT056,Azimut,48.6,34850000.0,Premium-Luxury,23.0,South of France,6
+YHT057,Lürssen,99.3,297690000.0,Ultra-Luxury,6.8,Monaco,14
+YHT058,Feadship,45.5,42120000.0,Premium-Luxury,8.4,Italian Riviera,6
+YHT059,Amels,51.4,43570000.0,Luxury,7.7,Monaco,7
+YHT060,Amels,43.9,34520000.0,Premium-Luxury,2.6,Spanish Coast,6
+YHT061,Feadship,43.5,34340000.0,Premium-Luxury,13.0,Monaco,6
+YHT062,Amels,44.2,35750000.0,Premium-Luxury,4.3,South of France,6
+YHT063,Oceanco,61.6,90510000.0,Luxury,4.5,Greek Islands,8
+YHT064,Oceanco,42.4,29600000.0,Premium-Luxury,14.0,Greek Islands,6
+YHT065,Oceanco,33.9,8010000.0,Mid-Range,3.5,Spanish Coast,4
+YHT066,Abeking,39.5,15470000.0,Mid-Range,0.8,Spanish Coast,5
+YHT067,Feadship,63.5,97500000.0,Luxury,1.0,Greek Islands,9
+YHT068,Sunseeker,40.6,30700000.0,Premium-Luxury,6.3,Italian Riviera,5
+YHT069,Abeking,77.1,213490000.0,Ultra-Luxury,14.6,Greek Islands,11
+YHT070,Abeking,57.9,71930000.0,Luxury,0.7,Italian Riviera,8
+YHT071,Sunseeker,48.6,40910000.0,Premium-Luxury,34.2,Spanish Coast,6
+YHT072,Sunseeker,64.2,75730000.0,Luxury,4.4,South of France,9
+YHT073,Heesen,58.7,63630000.0,Luxury,0.5,Spanish Coast,8
+YHT074,Oceanco,38.2,17350000.0,Mid-Range,26.2,Spanish Coast,5
+YHT075,Oceanco,67.4,88780000.0,Luxury,30.5,Greek Islands,9
+YHT076,Abeking,114.6,314280000.0,Ultra-Luxury,2.3,Italian Riviera,16
+YHT077,Sunseeker,35.2,14770000.0,Mid-Range,43.8,Italian Riviera,5
+YHT078,Azimut,30.5,10220000.0,Mid-Range,4.0,Spanish Coast,4
+YHT079,Oceanco,53.4,67500000.0,Luxury,7.0,Spanish Coast,7
+YHT080,Feadship,55.2,55040000.0,Luxury,3.0,Spanish Coast,7
+YHT081,Heesen,42.7,20100000.0,Premium-Luxury,23.9,Greek Islands,6
+YHT082,Abeking,44.2,48950000.0,Premium-Luxury,1.4,Monaco,6
+YHT083,Lürssen,34.8,16400000.0,Mid-Range,3.8,Italian Riviera,4
+YHT084,Feadship,38.4,12630000.0,Mid-Range,0.1,Spanish Coast,5
+YHT085,Abeking,40.0,20400000.0,Mid-Range,10.4,South of France,5
+YHT086,Amels,32.5,9270000.0,Mid-Range,2.6,Spanish Coast,4
+YHT087,Azimut,63.4,78330000.0,Luxury,0.2,South of France,9
+YHT088,Heesen,47.7,41380000.0,Premium-Luxury,27.5,Italian Riviera,6
+YHT089,Abeking,41.3,23440000.0,Premium-Luxury,8.2,Italian Riviera,5
+YHT090,Lürssen,52.7,49940000.0,Luxury,8.1,Italian Riviera,7
+YHT091,Sunseeker,106.3,241940000.0,Ultra-Luxury,4.0,South of France,15
+YHT092,Lürssen,39.5,11290000.0,Mid-Range,11.7,Spanish Coast,5
+YHT093,Amels,49.8,34620000.0,Premium-Luxury,6.9,Italian Riviera,7
+YHT094,Heesen,76.4,111340000.0,Ultra-Luxury,9.6,Spanish Coast,10
+YHT095,Abeking,56.9,81570000.0,Luxury,28.9,Greek Islands,8
+YHT096,Abeking,50.8,50230000.0,Luxury,0.3,Monaco,7
+YHT097,Lürssen,43.6,35130000.0,Premium-Luxury,9.4,Monaco,6
+YHT098,Amels,94.1,239230000.0,Ultra-Luxury,20.3,Greek Islands,13
+YHT099,Oceanco,113.4,191680000.0,Ultra-Luxury,1.9,South of France,16
+YHT100,Amels,35.3,12120000.0,Mid-Range,2.3,Italian Riviera,5
+YHT101,Lürssen,35.1,10640000.0,Mid-Range,3.5,Italian Riviera,5
+YHT102,Feadship,55.4,53190000.0,Luxury,14.7,South of France,7
+YHT103,Lürssen,42.3,28130000.0,Premium-Luxury,12.5,Greek Islands,6
+YHT104,Azimut,45.8,40730000.0,Premium-Luxury,4.5,Italian Riviera,6
+YHT105,Amels,56.7,85820000.0,Luxury,3.5,Greek Islands,8
+YHT106,Heesen,68.7,61360000.0,Luxury,2.3,Spanish Coast,9
+YHT107,Feadship,30.9,11220000.0,Mid-Range,0.7,Italian Riviera,4
+YHT108,Oceanco,104.8,363940000.0,Ultra-Luxury,27.9,Spanish Coast,14
+YHT109,Heesen,118.8,289220000.0,Ultra-Luxury,21.2,Italian Riviera,16
+YHT110,Heesen,42.8,33130000.0,Premium-Luxury,9.9,Spanish Coast,6
+YHT111,Azimut,42.4,24690000.0,Premium-Luxury,0.7,Italian Riviera,6
+YHT112,Azimut,33.2,11900000.0,Mid-Range,1.2,South of France,4
+YHT113,Abeking,33.2,13270000.0,Mid-Range,0.0,Monaco,4
+YHT114,Feadship,44.7,29660000.0,Premium-Luxury,15.2,Spanish Coast,6
+YHT115,Oceanco,31.2,15400000.0,Mid-Range,3.8,Monaco,4
+YHT116,Feadship,45.7,36060000.0,Premium-Luxury,11.1,Spanish Coast,6
+YHT117,Lürssen,53.3,79940000.0,Luxury,19.1,Monaco,7
+YHT118,Heesen,33.9,14730000.0,Mid-Range,18.4,Greek Islands,4
+YHT119,Feadship,65.0,72570000.0,Luxury,4.0,South of France,9
+YHT120,Heesen,49.1,33740000.0,Premium-Luxury,3.2,Italian Riviera,7
+YHT121,Oceanco,52.8,77280000.0,Luxury,10.8,Italian Riviera,7
+YHT122,Sunseeker,31.5,8320000.0,Mid-Range,1.2,Spanish Coast,4
+YHT123,Heesen,47.6,41870000.0,Premium-Luxury,6.2,Spanish Coast,6
+YHT124,Abeking,46.0,35130000.0,Premium-Luxury,2.1,Spanish Coast,6
+YHT125,Lürssen,30.1,11730000.0,Mid-Range,2.3,Greek Islands,4
+YHT126,Sunseeker,39.6,10680000.0,Mid-Range,5.0,Italian Riviera,5
+YHT127,Sunseeker,61.7,80790000.0,Luxury,10.4,Italian Riviera,8
+YHT128,Azimut,35.7,17050000.0,Mid-Range,8.4,Monaco,5
+YHT129,Azimut,46.1,35910000.0,Premium-Luxury,14.7,Italian Riviera,6
+YHT130,Heesen,41.1,46350000.0,Premium-Luxury,14.5,Monaco,5
+YHT131,Feadship,35.2,12740000.0,Mid-Range,10.9,South of France,5
+YHT132,Feadship,30.0,8650000.0,Mid-Range,15.9,South of France,4
+YHT133,Amels,44.8,44480000.0,Premium-Luxury,4.8,Italian Riviera,6
+YHT134,Feadship,61.6,54220000.0,Luxury,3.6,Italian Riviera,8
+YHT135,Oceanco,40.1,29080000.0,Premium-Luxury,4.9,Spanish Coast,5
+YHT136,Feadship,40.9,40830000.0,Premium-Luxury,3.0,Italian Riviera,5
+YHT137,Abeking,68.0,65660000.0,Luxury,3.8,Italian Riviera,9
+YHT138,Oceanco,108.8,239440000.0,Ultra-Luxury,5.2,Italian Riviera,15
+YHT139,Azimut,53.6,90450000.0,Luxury,2.5,Italian Riviera,7
+YHT140,Lürssen,44.1,19490000.0,Premium-Luxury,16.1,Monaco,6
+YHT141,Azimut,42.5,25500000.0,Premium-Luxury,0.9,Greek Islands,6
+YHT142,Azimut,63.1,59260000.0,Luxury,35.9,Italian Riviera,9
+YHT143,Sunseeker,39.4,9200000.0,Mid-Range,18.1,South of France,5
+YHT144,Oceanco,80.4,108020000.0,Ultra-Luxury,8.2,South of France,11
+YHT145,Lürssen,38.2,10440000.0,Mid-Range,3.6,Spanish Coast,5
+YHT146,Abeking,33.5,13660000.0,Mid-Range,2.8,Spanish Coast,4
+YHT147,Amels,37.8,9090000.0,Mid-Range,18.0,Monaco,5
+YHT148,Feadship,45.1,42420000.0,Premium-Luxury,2.4,Italian Riviera,6
+YHT149,Abeking,41.3,42270000.0,Premium-Luxury,0.1,South of France,5
+YHT150,Abeking,48.2,29820000.0,Premium-Luxury,8.4,South of France,6
+YHT151,Sunseeker,41.1,21200000.0,Premium-Luxury,16.6,South of France,5
+YHT152,Lürssen,46.7,31960000.0,Premium-Luxury,4.1,South of France,6
+YHT153,Abeking,43.5,37250000.0,Premium-Luxury,7.4,South of France,6
+YHT154,Amels,111.9,281210000.0,Ultra-Luxury,2.8,Italian Riviera,15
+YHT155,Azimut,34.0,14100000.0,Mid-Range,1.9,Spanish Coast,4
+YHT156,Amels,41.6,43630000.0,Premium-Luxury,7.3,South of France,5
+YHT157,Feadship,44.7,28290000.0,Premium-Luxury,5.5,Italian Riviera,6
+YHT158,Oceanco,44.6,19940000.0,Premium-Luxury,9.5,South of France,6
+YHT159,Feadship,85.7,275390000.0,Ultra-Luxury,24.0,Monaco,12
+YHT160,Abeking,60.8,95510000.0,Luxury,11.4,Greek Islands,8
+YHT161,Sunseeker,48.5,30170000.0,Premium-Luxury,9.5,Monaco,6
+YHT162,Sunseeker,30.4,14640000.0,Mid-Range,6.5,South of France,4
+YHT163,Azimut,52.4,62770000.0,Luxury,28.3,Greek Islands,7
+YHT164,Lürssen,48.6,41600000.0,Premium-Luxury,8.3,Italian Riviera,6
+YHT165,Lürssen,44.8,42750000.0,Premium-Luxury,10.3,Spanish Coast,6
+YHT166,Abeking,48.0,39340000.0,Premium-Luxury,7.9,Greek Islands,6
+YHT167,Heesen,42.3,24890000.0,Premium-Luxury,0.0,Greek Islands,6
+YHT168,Oceanco,49.4,53270000.0,Premium-Luxury,0.4,Monaco,7
+YHT169,Sunseeker,44.8,41900000.0,Premium-Luxury,4.1,Monaco,6
+YHT170,Abeking,60.5,66180000.0,Luxury,3.5,South of France,8
+YHT171,Heesen,54.7,45060000.0,Luxury,0.4,Monaco,7
+YHT172,Abeking,52.5,86840000.0,Luxury,0.7,Italian Riviera,7
+YHT173,Azimut,39.9,13940000.0,Mid-Range,22.9,Greek Islands,5
+YHT174,Feadship,31.2,6370000.0,Mid-Range,1.7,Italian Riviera,4
+YHT175,Feadship,38.0,13110000.0,Mid-Range,21.0,South of France,5
+YHT176,Feadship,42.6,32160000.0,Premium-Luxury,1.3,Italian Riviera,6
+YHT177,Heesen,54.5,71670000.0,Luxury,15.7,Italian Riviera,7
+YHT178,Feadship,32.7,9010000.0,Mid-Range,15.3,South of France,4
+YHT179,Azimut,36.6,11150000.0,Mid-Range,2.3,Italian Riviera,5
+YHT180,Abeking,45.0,21580000.0,Premium-Luxury,18.0,Greek Islands,6
+YHT181,Lürssen,35.0,12470000.0,Mid-Range,6.8,South of France,4
+YHT182,Azimut,48.6,42530000.0,Premium-Luxury,8.6,Monaco,6
+YHT183,Abeking,53.2,55600000.0,Luxury,9.1,Italian Riviera,7
+YHT184,Amels,31.6,16850000.0,Mid-Range,16.9,South of France,4
+YHT185,Oceanco,86.8,196100000.0,Ultra-Luxury,6.5,Greek Islands,12
+YHT186,Feadship,40.1,26990000.0,Premium-Luxury,6.6,South of France,5
+YHT187,Heesen,45.4,34050000.0,Premium-Luxury,0.1,Monaco,6
+YHT188,Abeking,33.4,15280000.0,Mid-Range,12.4,Spanish Coast,4
+YHT189,Heesen,40.7,28660000.0,Premium-Luxury,9.9,Monaco,5
+YHT190,Sunseeker,73.7,245050000.0,Ultra-Luxury,27.8,Spanish Coast,10
+YHT191,Feadship,45.9,26260000.0,Premium-Luxury,3.1,Italian Riviera,6
+YHT192,Oceanco,50.0,53320000.0,Luxury,4.4,Greek Islands,7
+YHT193,Azimut,35.3,14520000.0,Mid-Range,0.7,Spanish Coast,5
+YHT194,Oceanco,42.7,35860000.0,Premium-Luxury,10.5,Greek Islands,6
+YHT195,Feadship,44.0,33440000.0,Premium-Luxury,3.1,South of France,6
+YHT196,Sunseeker,50.6,63590000.0,Luxury,5.1,Italian Riviera,7
+YHT197,Sunseeker,31.9,16300000.0,Mid-Range,4.8,South of France,4
+YHT198,Oceanco,36.3,7060000.0,Mid-Range,27.4,Spanish Coast,5
+YHT199,Oceanco,34.8,6960000.0,Mid-Range,2.3,Monaco,4
+YHT200,Abeking,59.8,63780000.0,Luxury,7.1,Italian Riviera,8
+YHT201,Lürssen,31.5,11460000.0,Mid-Range,5.2,Italian Riviera,4
+YHT202,Heesen,48.6,35290000.0,Premium-Luxury,11.1,Monaco,6
+YHT203,Heesen,69.7,74670000.0,Luxury,1.9,Monaco,9
+YHT204,Feadship,40.1,26780000.0,Premium-Luxury,17.1,Monaco,5
+YHT205,Lürssen,33.6,11860000.0,Mid-Range,9.4,South of France,4
+YHT206,Abeking,30.4,14400000.0,Mid-Range,9.8,Monaco,4
+YHT207,Azimut,30.5,11980000.0,Mid-Range,23.6,Spanish Coast,4
+YHT208,Oceanco,33.4,12350000.0,Mid-Range,6.4,South of France,4
+YHT209,Heesen,34.8,6390000.0,Mid-Range,0.7,Spanish Coast,4
+YHT210,Sunseeker,53.2,67800000.0,Luxury,5.1,Greek Islands,7
+YHT211,Lürssen,65.8,87400000.0,Luxury,0.2,Italian Riviera,9
+YHT212,Lürssen,69.9,110260000.0,Luxury,4.1,Greek Islands,9
+YHT213,Heesen,71.5,132930000.0,Ultra-Luxury,25.9,South of France,10
+YHT214,Oceanco,44.3,28250000.0,Premium-Luxury,5.6,South of France,6
+YHT215,Azimut,35.8,12940000.0,Mid-Range,7.5,South of France,5
+YHT216,Abeking,36.6,16620000.0,Mid-Range,1.9,Greek Islands,5
+YHT217,Oceanco,48.4,33180000.0,Premium-Luxury,19.2,South of France,6
+YHT218,Abeking,69.4,86440000.0,Luxury,4.6,Spanish Coast,9
+YHT219,Sunseeker,45.9,38630000.0,Premium-Luxury,1.4,Italian Riviera,6
+YHT220,Feadship,58.0,66580000.0,Luxury,11.9,Spanish Coast,8
+YHT221,Heesen,34.5,7760000.0,Mid-Range,3.2,Greek Islands,4
+YHT222,Amels,66.6,72790000.0,Luxury,23.7,Monaco,9
+YHT223,Abeking,53.4,59470000.0,Luxury,6.1,Monaco,7
+YHT224,Oceanco,38.1,16400000.0,Mid-Range,6.2,Spanish Coast,5
+YHT225,Abeking,51.1,76030000.0,Luxury,8.2,Italian Riviera,7
+YHT226,Heesen,49.3,32560000.0,Premium-Luxury,9.3,Spanish Coast,7
+YHT227,Lürssen,39.7,9430000.0,Mid-Range,28.9,Italian Riviera,5
+YHT228,Abeking,46.7,21590000.0,Premium-Luxury,1.2,South of France,6
+YHT229,Azimut,63.5,78940000.0,Luxury,1.4,Greek Islands,9
+YHT230,Amels,32.6,15460000.0,Mid-Range,9.2,South of France,4
+YHT231,Amels,66.6,105670000.0,Luxury,21.4,Spanish Coast,9
+YHT232,Abeking,42.2,33480000.0,Premium-Luxury,6.9,Spanish Coast,6
+YHT233,Feadship,62.1,82530000.0,Luxury,16.4,Monaco,8
+YHT234,Heesen,84.4,148930000.0,Ultra-Luxury,3.2,Italian Riviera,12
+YHT235,Amels,37.6,16100000.0,Mid-Range,3.8,Monaco,5
+YHT236,Amels,62.6,83770000.0,Luxury,3.9,Monaco,8
+YHT237,Amels,45.5,26460000.0,Premium-Luxury,7.4,South of France,6
+YHT238,Lürssen,35.0,14990000.0,Mid-Range,5.2,Greek Islands,5
+YHT239,Sunseeker,31.1,7690000.0,Mid-Range,6.1,Italian Riviera,4
+YHT240,Abeking,38.1,18730000.0,Mid-Range,13.8,Italian Riviera,5
+YHT241,Amels,102.4,261560000.0,Ultra-Luxury,3.8,Spanish Coast,14
+YHT242,Azimut,33.5,7680000.0,Mid-Range,5.9,Italian Riviera,4
+YHT243,Heesen,35.3,11050000.0,Mid-Range,10.1,Monaco,5
+YHT244,Oceanco,38.2,11580000.0,Mid-Range,1.6,Greek Islands,5
+YHT245,Azimut,55.9,68250000.0,Luxury,26.4,Spanish Coast,7
+YHT246,Sunseeker,110.8,230670000.0,Ultra-Luxury,24.2,Greek Islands,15
+YHT247,Lürssen,32.3,8890000.0,Mid-Range,3.6,South of France,4
+YHT248,Lürssen,33.5,10110000.0,Mid-Range,10.5,Spanish Coast,4
+YHT249,Feadship,46.7,26830000.0,Premium-Luxury,4.4,Greek Islands,6
+YHT250,Feadship,64.7,82170000.0,Luxury,1.6,Greek Islands,9
